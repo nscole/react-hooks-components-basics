@@ -9,6 +9,6 @@ function App() {
       <Comment />
     </div>
   );
-}
+} 
 
 export default App;
